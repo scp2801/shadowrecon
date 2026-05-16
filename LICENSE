@@ -1,0 +1,43 @@
+MIT License
+
+Copyright (c) 2025 ShadowRecon Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+─────────────────────────────────────────────────────────────────────────────
+DISCLAIMER
+─────────────────────────────────────────────────────────────────────────────
+ShadowRecon is developed for EDUCATIONAL PURPOSES and AUTHORIZED SECURITY
+TESTING ONLY.
+
+The developers and contributors of ShadowRecon:
+
+1. Do NOT endorse or support unauthorized access to computer systems
+2. Are NOT responsible for any misuse, damage, or illegal activities
+   caused by this tool
+3. Strongly recommend obtaining explicit written permission before
+   scanning any system you do not own
+
+By using ShadowRecon, you agree that:
+- You will only scan systems you own or have explicit permission to test
+- You understand that unauthorized scanning may be illegal in your jurisdiction
+- You accept full responsibility for your actions
+
+Always follow responsible disclosure practices and ethical hacking standards.
+─────────────────────────────────────────────────────────────────────────────
